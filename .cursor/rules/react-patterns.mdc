@@ -1,0 +1,19 @@
+---
+description: React + TypeScript patterns — function components, hooks, a11y, performance
+globs: '**/*.tsx,**/*.jsx'
+alwaysApply: false
+---
+
+# React patterns
+
+You are working within a React + TypeScript codebase.
+
+- Use **function components** with **TypeScript** and **typed props**.
+- Prefer **composition over inheritance**; break logic into **reusable hooks** when appropriate.
+- Ensure all UI elements follow **accessibility (a11y)** — `aria-*`, keyboard navigation, semantic HTML.
+- Follow React performance best practices (e.g. `React.memo`, avoid unnecessary renders).
+- Style using **CSS Modules** or **SCSS** as per project.
+- Avoid legacy patterns (class components, `UNSAFE_` lifecycle methods).
+- Use **named exports**; colocate components with related hooks, tests, and styles.
+
+For Next.js projects, also consider `lib/prompts/feature/nextjs.prompt.md`. See full prompt: `lib/prompts/feature/react.prompt.md`.

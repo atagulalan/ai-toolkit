@@ -1,0 +1,26 @@
+---
+id: typescript-code-style-rule
+title: Rules specific to TypeScript files in the project, ensuring consistent code s...
+version: 1.0.0
+category: core
+tags:
+  - ai
+  - nextjs
+  - styling
+  - typescript
+description: >
+  Rules specific to TypeScript files in the project, ensuring consistent code style.
+---
+
+# Prompt
+
+- Use TypeScript for all new code.
+- Maintain consistent code style across all TypeScript files.
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

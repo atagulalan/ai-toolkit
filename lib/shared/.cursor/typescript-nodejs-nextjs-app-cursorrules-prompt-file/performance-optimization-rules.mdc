@@ -1,0 +1,33 @@
+---
+id: performance-optimization-rules
+title: Rules focused on performance optimization within the Next.js app directory.
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - client
+  - components
+  - nextjs
+  - nodejs
+  - react
+  - server
+  - state-management
+  - typescript
+description: >
+  Rules focused on performance optimization within the Next.js app directory.
+---
+
+# Prompt
+
+- Minimize 'use client', 'useEffect', and 'setState'; favor React Server Components (RSC).
+- Wrap client components in Suspense with fallback.
+- Use dynamic loading for non-critical components.
+- Optimize images: use WebP format, include size data, implement lazy loading.
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

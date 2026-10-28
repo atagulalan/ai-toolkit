@@ -1,0 +1,28 @@
+---
+id: next-js-styling-conventions
+title: Recommends using CSS Modules or Tailwind CSS for styling components in a Next...
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - components
+  - css
+  - nextjs
+  - styling
+  - tailwind
+  - typescript
+description: >
+  This rule recommends using CSS Modules or Tailwind CSS for styling components in a Next.js project.
+---
+
+# Prompt
+
+- Use CSS Modules or Tailwind CSS for styling
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

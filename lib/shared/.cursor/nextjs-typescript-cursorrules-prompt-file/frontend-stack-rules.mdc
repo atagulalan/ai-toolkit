@@ -1,0 +1,34 @@
+---
+id: frontend-stack-rules
+title: Specifies the frontend technology stack including React, TypeScript, Shadcn/U...
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - components
+  - css
+  - nextjs
+  - react
+  - styling
+  - tailwind
+  - typescript
+  - ui
+description: >
+  Specifies the frontend technology stack including React, TypeScript, Shadcn/UI, Tailwind CSS, and Lucide React, applying to all frontend files.
+---
+
+# Prompt
+
+- Framework: Next.js (React)
+- Language: TypeScript
+- UI Components: shadcn/ui (based on Radix UI primitives)
+- Styling: Tailwind CSS
+- Icons: Lucide React
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

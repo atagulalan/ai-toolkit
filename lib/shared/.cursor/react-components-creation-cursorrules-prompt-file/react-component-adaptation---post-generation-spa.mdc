@@ -1,0 +1,32 @@
+---
+id: react-component-adaptation---post-generation-spa
+title: Specifies steps to adapt generated React components to the SPA project struct...
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - components
+  - react
+  - state-management
+  - typescript
+  - ui
+description: >
+  Specifies steps to adapt generated React components to the SPA project structure after initial creation.
+---
+
+# Prompt
+
+- After generating, adapt the component to fit our project structure:
+  - Import
+    - common shadcn/ui components from <ui_package_alias>@repo/ui/components/ui/</ui_package_alias>
+    - app specific components from <app_package_alias>@/components</app_package_alias>
+  - Ensure it follows our existing component patterns
+  - Add any necessary custom logic or state management
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

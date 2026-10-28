@@ -1,0 +1,36 @@
+---
+id: next-js-additional-instructions
+title: Additional instructions for Next.js development, covering various aspects suc...
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - components
+  - css
+  - error-handling
+  - nextjs
+  - seo
+  - styling
+  - tailwind
+  - typescript
+description: >
+  This rule provides additional instructions for Next.js development, covering various aspects such as TypeScript, SEO, image optimization, styling, and error handling.
+---
+
+# Prompt
+
+- Use TypeScript for type safety
+- Implement proper metadata for SEO
+- Utilize Next.js Image component for optimized images
+- Use CSS Modules or Tailwind CSS for styling
+- Implement proper error boundaries
+- Follow Next.js naming conventions for special files
+- Use environment variables for configuration
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

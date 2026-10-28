@@ -1,0 +1,24 @@
+---
+id: next-js-naming-conventions
+title: Helps in following Next.js file naming conventions for special files within t...
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - nextjs
+  - typescript
+description: >
+  This rule helps in following Next.js file naming conventions for special files within the 'app' directory.
+---
+
+# Prompt
+
+- Follow Next.js naming conventions for special files
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

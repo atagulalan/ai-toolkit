@@ -1,0 +1,26 @@
+---
+id: llm-integration-rules
+title: Specifies rules for LLM integration, including the use of a Python wrapper an...
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - nextjs
+  - python
+  - typescript
+description: >
+  Specifies rules for LLM integration, including the use of a Python wrapper and an API endpoint, applying to all LLM-related files.
+---
+
+# Prompt
+
+- Python wrapper for LLM interaction
+- API endpoint to connect frontend with Python backend
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

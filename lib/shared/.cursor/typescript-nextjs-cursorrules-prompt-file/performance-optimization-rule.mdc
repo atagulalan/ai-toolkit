@@ -1,0 +1,32 @@
+---
+id: performance-optimization-rule
+title: Rules for performance optimization, including minimizing client-side code and...
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - client
+  - components
+  - nextjs
+  - react
+  - server
+  - state-management
+  - typescript
+description: >
+  Rules for performance optimization, including minimizing client-side code and optimizing images.
+---
+
+# Prompt
+
+- Minimize 'use client', 'useEffect', and 'setState'; favor React Server Components (RSC).
+- Wrap client components in Suspense with fallback.
+- Use dynamic loading for non-critical components.
+- Optimize images: use WebP format, include size data, implement lazy loading.
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

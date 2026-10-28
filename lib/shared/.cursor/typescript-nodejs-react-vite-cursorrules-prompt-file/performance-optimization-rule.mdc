@@ -1,0 +1,35 @@
+---
+id: performance-optimization-rule
+title: Focuses on performance optimization techniques for TypeScript, React, and Nod...
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - nodejs
+  - react
+  - state-management
+  - typescript
+  - vite
+description: >
+  Focuses on performance optimization techniques for TypeScript, React, and Node.js projects.
+---
+
+# Prompt
+
+Performance Optimization
+- Look for ways to make things faster:
+  - Use immutable data structures
+  - Use efficient data fetching strategies
+  - Optimize network requests
+  - Use efficient data structures
+  - Use efficient algorithms
+  - Use efficient rendering strategies
+  - Use efficient state management
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

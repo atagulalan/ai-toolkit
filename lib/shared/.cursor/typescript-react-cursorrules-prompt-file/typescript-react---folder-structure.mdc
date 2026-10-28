@@ -1,0 +1,35 @@
+---
+id: typescript-react---folder-structure
+title: Preferred folder structure for TypeScript React projects to maintain a consis...
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - components
+  - hooks
+  - react
+  - structure
+  - typescript
+description: >
+  Defines the preferred folder structure for TypeScript React projects to maintain a consistent organization.
+---
+
+# Prompt
+
+- Recommended folder structure:
+  src/
+    components/
+    hooks/
+    pages/
+    types/
+    utils/
+    App.tsx
+    index.tsx
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

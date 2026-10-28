@@ -1,0 +1,25 @@
+---
+id: typescript-react---general-preferences
+title: Sets general preferences for TypeScript React development, such as preferring...
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - components
+  - react
+  - typescript
+description: >
+  Sets general preferences for TypeScript React development, such as preferring functional components.
+---
+
+# Prompt
+
+- Prefer functional components
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

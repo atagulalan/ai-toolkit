@@ -1,0 +1,18 @@
+# Warp config snippet for AI Toolkit workflow
+# Warp uses YAML for configuration. Merge or adapt into your Warp config.
+# See Warp docs for config location (e.g. ~/.warp or Warp settings).
+
+# Example: custom command / alias to open current directory in Cursor
+# (Exact key names may vary by Warp version; adjust per Warp docs.)
+#
+# commands:
+#   - name: open-cursor
+#     command: cursor .
+#     description: Open current directory in Cursor
+#
+# Or add a shell alias in your profile (Warp uses your default shell):
+#   alias aitopen='cursor .'
+#   alias aitoolkit='cd ~/path/to/ai-toolkit && cursor .'
+
+# Optional: ensure pnpm/node available in Warp (use nvm/fnm if needed)
+# This is typically handled by your shell profile (.zshrc, .bashrc).

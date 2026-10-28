@@ -8,22 +8,24 @@ tags:
   - a11y
   - semantic
 description: >
-  Analyze a component or page for accessibility issues and suggest improvements 
-  following WCAG and best practices.
+  Analyze a component or page for accessibility issues and suggest improvements
+  following WCAG 2.1 and best practices.
 ---
 
 # Prompt
 
-You're reviewing a React component or UI snippet for accessibility.  
-Carefully audit the code and provide actionable suggestions, aligned with WCAG and common best practices.
+You're reviewing a React or Next.js component or UI snippet for accessibility.  
+Carefully audit the code and provide actionable suggestions, aligned with **WCAG 2.1** and common best practices.
 
 Checklist:
 
-- Are all interactive elements keyboard-accessible?
-- Are `aria-*` attributes used appropriately?
-- Are semantic HTML elements used instead of `div`/`span`?
-- Is color contrast acceptable?
-- Are labels and roles clearly defined?
+- Are all interactive elements **keyboard-accessible** (focus order, no keyboard traps)?
+- Are `aria-*` attributes used appropriately (labels, roles, live regions)?
+- Are **semantic HTML** elements used instead of `div`/`span` where possible (`button`, `nav`, `main`, headings)?
+- Is **color contrast** acceptable (WCAG AA for normal text)?
+- Are **labels and roles** clearly defined (form labels, heading hierarchy)?
+- **Next.js**: Is `next/link` used for in-app navigation (not raw `<a>`)? Is `next/image` used with meaningful `alt`?
+- **Client components**: Is focus managed correctly after modals or dynamic content (e.g. focus trap, return focus)?
 
 Be concise but thorough. Return a list of findings and fixes.
 

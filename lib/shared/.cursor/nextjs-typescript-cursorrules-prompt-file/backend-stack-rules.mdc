@@ -1,0 +1,27 @@
+---
+id: backend-stack-rules
+title: Specifies the backend technology stack including Next.js API Routes and TypeS...
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - nextjs
+  - routing
+  - server
+  - typescript
+description: >
+  Specifies the backend technology stack including Next.js API Routes and TypeScript, applying to all backend files.
+---
+
+# Prompt
+
+- Framework: Next.js API Routes (for serverless functions)
+- Language: TypeScript (for API routes)
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

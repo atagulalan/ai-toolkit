@@ -1,0 +1,29 @@
+---
+id: key-conventions-rules
+title: Rules for key conventions, including nuqs for URL state management and Web Vi...
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - client
+  - nextjs
+  - nodejs
+  - state-management
+  - typescript
+description: >
+  Rules for key conventions, including nuqs for URL state management and Web Vitals optimization.
+---
+
+# Prompt
+
+- Use 'nuqs' for URL search parameter state management.
+- Optimize Web Vitals (LCP, CLS, FID).
+- Limit 'use client': Follow Next.js docs for Data Fetching, Rendering, and Routing.
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

@@ -1,0 +1,28 @@
+---
+id: syntax-and-formatting-rule
+title: Rules for syntax and formatting in TypeScript, Node.js, and Next.js projects.
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - nextjs
+  - nodejs
+  - state-management
+  - typescript
+description: >
+  Rules for syntax and formatting in TypeScript, Node.js, and Next.js projects.
+---
+
+# Prompt
+
+- Use the "function" keyword for pure functions.
+- Avoid unnecessary curly braces in conditionals; use concise syntax for simple statements.
+- Use declarative JSX.
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

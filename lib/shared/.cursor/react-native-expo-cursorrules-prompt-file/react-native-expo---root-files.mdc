@@ -1,0 +1,29 @@
+---
+id: react-native-expo---root-files
+title: Specific configuration guidelines for the root level files App.js and app.json
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - components
+  - expo
+  - react
+  - react-native
+  - typescript
+  - ui
+description: >
+  Specific configuration guidelines for the root level files App.js and app.json
+---
+
+# Prompt
+
+- Always keep App.js clean and delegate work to other components.
+- Always configure app.json based on the documentation
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

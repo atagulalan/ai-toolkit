@@ -1,0 +1,27 @@
+---
+id: redux-async-actions
+title: Specific instructions when handling Redux async actions
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - error-handling
+  - react
+  - redux
+  - typescript
+description: >
+  Specific instructions when handling Redux async actions
+---
+
+# Prompt
+
+- Utilize createAsyncThunk for handling async actions.
+- Implement proper error handling in async operations.
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

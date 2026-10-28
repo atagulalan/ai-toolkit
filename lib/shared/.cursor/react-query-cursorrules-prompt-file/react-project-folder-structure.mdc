@@ -1,0 +1,35 @@
+---
+id: react-project-folder-structure
+title: Defined folder structure for a React project, improving organization and main...
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - components
+  - hooks
+  - react
+  - structure
+  - typescript
+description: >
+  This rule enforces the defined folder structure for a React project, improving organization and maintainability.
+---
+
+# Prompt
+
+- Enforce the following folder structure:
+  - src/
+    - components/
+    - hooks/
+      - useQueries/
+      - useMutations/
+    - pages/
+    - utils/
+    - api/
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

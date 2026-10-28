@@ -1,0 +1,26 @@
+---
+id: next-js-app-router-data-fetching-rendering-and-routing-rules
+title: Rules for Next.js 14 App Router projects. This rule applies to all files with...
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - nextjs
+  - react
+  - routing
+  - typescript
+description: >
+  Rules for Next.js 14 App Router projects. This rule applies to all files within the 'app' directory.
+---
+
+# Prompt
+
+Follow @Next.js 14 App Router docs for Data Fetching, Rendering, and Routing.
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

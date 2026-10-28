@@ -1,0 +1,28 @@
+---
+id: coding-process-rules
+title: Specifies the coding process, including step-by-step reasoning, prioritizatio...
+version: 1.0.0
+category: task
+tags:
+  - ai
+  - nextjs
+  - typescript
+description: >
+  Specifies the coding process, including step-by-step reasoning, prioritization, finishing files before moving on, and using TODO comments, applying to all files.
+---
+
+# Prompt
+
+- Show concise step-by-step reasoning
+- Prioritize tasks/steps you’ll address in each response
+- Finish one file before the next
+- If you can’t finish code, add TODO: comments
+- If needed, interrupt yourself and ask to continue
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

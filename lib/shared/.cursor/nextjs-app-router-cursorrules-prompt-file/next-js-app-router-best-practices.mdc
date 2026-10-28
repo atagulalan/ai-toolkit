@@ -1,0 +1,36 @@
+---
+id: next-js-app-router-best-practices
+title: Next.js App Router best practices in the 'app' directory.
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - client
+  - components
+  - error-handling
+  - nextjs
+  - routing
+  - server
+  - state-management
+  - typescript
+description: >
+  This rule enforces Next.js App Router best practices in the 'app' directory.
+---
+
+# Prompt
+
+- Use server components by default
+- Implement client components only when necessary
+- Utilize the new file-based routing system
+- Use layout.js for shared layouts
+- Implement loading.js for loading states
+- Use error.js for error handling
+- Utilize route handlers for API routes
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

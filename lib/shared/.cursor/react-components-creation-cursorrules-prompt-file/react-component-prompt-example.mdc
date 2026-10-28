@@ -1,0 +1,31 @@
+---
+id: react-component-prompt-example
+title: Example prompt template for generating react components with specific instruc...
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - components
+  - css
+  - react
+  - styling
+  - tailwind
+  - typescript
+  - ui
+description: >
+  Provides an example prompt template for generating react components with specific instructions.
+---
+
+# Prompt
+
+- Example prompt template:
+  "Create a React component named {ComponentName} using TypeScript and Tailwind CSS. It should {description of functionality}. Props should include {list of props with types}. The component should {any specific styling or behavior notes}. Please provide the full component code."
+- Remember to replace placeholders like <ui_package_path> and <app_package_alias> with the actual values used in your project.
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

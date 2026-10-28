@@ -1,0 +1,28 @@
+---
+id: react-functional-components
+title: Use of functional components with hooks in React components.
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - components
+  - hooks
+  - react
+  - redux
+  - typescript
+description: >
+  Enforces the use of functional components with hooks in React components.
+---
+
+# Prompt
+
+- Always use React functional components with hooks.
+- Use React.FC for functional components with props.
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

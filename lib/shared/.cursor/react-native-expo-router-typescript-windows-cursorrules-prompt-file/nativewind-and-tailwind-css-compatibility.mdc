@@ -1,0 +1,36 @@
+---
+id: nativewind-and-tailwind-css-compatibility
+title: Specific version compatibility notes for NativeWind and Tailwind CSS to preve...
+version: 1.0.0
+category: task
+tags:
+  - ai
+  - css
+  - error-handling
+  - expo
+  - nativewind
+  - react
+  - react-native
+  - styling
+  - tailwind
+  - typescript
+description: >
+  Provides specific version compatibility notes for NativeWind and Tailwind CSS to prevent common installation errors.
+---
+
+# Prompt
+
+- NativeWind and Tailwind CSS compatibility:
+  - Use nativewind@2.0.11 with tailwindcss@3.3.2.
+  - Higher versions may cause 'process(css).then(cb)' errors.
+  - If errors occur, remove both packages and reinstall specific versions:
+    npm remove nativewind tailwindcss
+    npm install nativewind@2.0.11 tailwindcss@3.3.2
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

@@ -1,0 +1,32 @@
+---
+id: react-query-general-best-practices
+title: Outlines the general best practices for using React Query throughout the Reac...
+version: 1.0.0
+category: core
+tags:
+  - ai
+  - client
+  - error-handling
+  - hooks
+  - react
+  - state-management
+  - typescript
+description: >
+  This rule outlines the general best practices for using React Query throughout the React project.
+---
+
+# Prompt
+
+- Use QueryClient and QueryClientProvider at the root of your app
+- Implement custom hooks for queries and mutations
+- Utilize query keys for effective caching
+- Use prefetching for improved performance
+- Implement proper error and loading states
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

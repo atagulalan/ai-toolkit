@@ -1,0 +1,28 @@
+---
+id: general-assistant-rules
+title: General assistant behavior for all files, including how to handle errors, ask...
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - error-handling
+  - nextjs
+  - typescript
+  - ui
+description: >
+  Defines general assistant behavior for all files, including how to handle errors, ask questions, and understand project stack.
+---
+
+# Prompt
+
+- Holistic understanding of requirements & stack
+- Don’t apologize for errors: fix them
+- You may ask about stack assumptions if writing code
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

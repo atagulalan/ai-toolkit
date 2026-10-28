@@ -1,0 +1,37 @@
+---
+id: redux-folder-structure
+title: Specific folder structure conventions within the Redux store directory.
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - components
+  - hooks
+  - react
+  - redux
+  - structure
+  - typescript
+description: >
+  Enforces specific folder structure conventions within the Redux store directory.
+---
+
+# Prompt
+
+- Follow this folder structure:
+  src/
+    components/
+    features/
+    store/
+      slices/
+      hooks.ts
+      store.ts
+    types/
+    utils/
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

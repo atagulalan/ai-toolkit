@@ -1,0 +1,28 @@
+---
+id: react-query-hooks-directory-guidelines
+title: Specifies the folder structure and purpose for placing React Query custom hoo...
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - hooks
+  - react
+  - structure
+  - typescript
+  - ui
+description: >
+  This rule specifies the folder structure and purpose for placing React Query custom hooks in dedicated subdirectories.
+---
+
+# Prompt
+
+- Place query hooks in src/hooks/useQueries/
+- Place mutation hooks in src/hooks/useMutations/
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

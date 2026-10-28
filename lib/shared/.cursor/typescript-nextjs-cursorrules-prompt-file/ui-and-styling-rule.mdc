@@ -1,0 +1,31 @@
+---
+id: ui-and-styling-rule
+title: Rules for UI and styling using Daisy UI and Tailwind in React components.
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - components
+  - css
+  - nextjs
+  - react
+  - styling
+  - tailwind
+  - typescript
+  - ui
+description: >
+  Rules for UI and styling using Daisy UI and Tailwind in React components.
+---
+
+# Prompt
+
+- Use Daisy UI and Tailwind for components and styling.
+- Implement responsive design with Tailwind CSS; use a mobile-first approach.
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

@@ -1,0 +1,21 @@
+---
+description: TypeScript standards — strict typing, type vs interface, generics, no any
+globs: '**/*.ts,**/*.tsx'
+alwaysApply: false
+---
+
+# TypeScript standards
+
+You are working in a modern TypeScript codebase that prioritizes safety, readability, and maintainability.
+
+- Prefer **explicit and strict typing**; avoid `any` unless absolutely necessary.
+- Use **`type`** aliases over `interface` unless extension is required.
+- Leverage **utility types** (`Partial`, `Omit`, `Pick`, etc.) when shaping types.
+- Use **generics** in reusable functions, components, or hooks.
+- Avoid complex nested types — extract named types for readability.
+- Always annotate return types for exported functions.
+- Use **discriminated unions** instead of flags when modeling variation.
+- Prefer **readonly** and immutability where possible.
+- Follow ESLint and Prettier standards for formatting and naming.
+
+See full prompt: `lib/prompts/feature/typescript.prompt.md`.

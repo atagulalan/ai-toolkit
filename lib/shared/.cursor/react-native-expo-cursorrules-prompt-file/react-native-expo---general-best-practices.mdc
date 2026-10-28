@@ -1,0 +1,34 @@
+---
+id: react-native-expo---general-best-practices
+title: Applies general React Native Expo best practices within the src directory, su...
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - components
+  - error-handling
+  - expo
+  - hooks
+  - react
+  - react-native
+  - typescript
+description: >
+  Applies general React Native Expo best practices within the src directory, such as using functional components with hooks and Expo SDK features.
+---
+
+# Prompt
+
+- Use functional components with hooks
+- Utilize Expo SDK features and APIs
+- Implement proper navigation using React Navigation
+- Use Expo's asset system for images and fonts
+- Implement proper error handling and crash reporting
+- Utilize Expo's push notification system
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

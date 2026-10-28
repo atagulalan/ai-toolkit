@@ -1,0 +1,31 @@
+---
+id: babel-configuration-for-nativewind
+title: Specifies the correct Babel configuration for NativeWind to ensure proper pro...
+version: 1.0.0
+category: task
+tags:
+  - ai
+  - babel
+  - expo
+  - nativewind
+  - react
+  - react-native
+  - typescript
+description: >
+  Specifies the correct Babel configuration for NativeWind to ensure proper processing and avoid conflicts.
+---
+
+# Prompt
+
+- Babel configuration for NativeWind:
+  - Include 'nativewind/babel' in the plugins array.
+  - Avoid using jsxImportSource in presets.
+  - Ensure 'react-native-reanimated/plugin' follows 'nativewind/babel'.
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

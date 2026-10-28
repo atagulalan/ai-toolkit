@@ -1,0 +1,26 @@
+---
+id: next-js-seo-guidelines
+title: That SEO best practices are followed through proper metadata implementation i...
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - nextjs
+  - seo
+  - typescript
+  - ui
+description: >
+  This rule ensures that SEO best practices are followed through proper metadata implementation in Next.js.
+---
+
+# Prompt
+
+- Implement proper metadata for SEO
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

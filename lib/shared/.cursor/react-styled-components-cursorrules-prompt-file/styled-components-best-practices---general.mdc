@@ -1,0 +1,32 @@
+---
+id: styled-components-best-practices---general
+title: Applies best practices for Styled Components within React components.
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - components
+  - css
+  - react
+  - styled-components
+  - styling
+  - typescript
+description: >
+  Applies best practices for Styled Components within React components.
+---
+
+# Prompt
+
+- Use the styled-components/macro for better debugging.
+- Implement a global theme using ThemeProvider.
+- Create reusable styled components.
+- Use props for dynamic styling.
+- Utilize CSS helper functions like css`` when needed.
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

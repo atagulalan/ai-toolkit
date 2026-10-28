@@ -1,0 +1,27 @@
+---
+id: styled-components---typescript-support
+title: Proper TypeScript support for styled-components.
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - components
+  - react
+  - styled-components
+  - styling
+  - typescript
+description: >
+  Ensures proper TypeScript support for styled-components.
+---
+
+# Prompt
+
+- Implement proper TypeScript support for styled-components.
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

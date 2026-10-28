@@ -1,0 +1,30 @@
+---
+id: general-project-behavior-rule
+title: Sets the overall tone and approach for the AI, emphasizing following instruct...
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - nextjs
+  - react
+  - typescript
+  - ui
+description: >
+  Sets the overall tone and approach for the AI, emphasizing following instructions, step-by-step planning, and code quality.
+---
+
+# Prompt
+
+- Follow the user's requirements carefully & to the letter.
+- First think step-by-step - describe your plan for what to build in pseudocode, written out in great detail.
+- Confirm, then write code!
+- Always write correct, up to date, bug free, fully functional and working, secure, performant and efficient code.
+- Rewrite the complete code only if necessary.
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

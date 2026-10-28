@@ -1,0 +1,27 @@
+---
+id: styled-components---attrs-method
+title: Recommends utilizing styled-components' attrs method for frequently used props.
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - components
+  - react
+  - styled-components
+  - styling
+  - typescript
+description: >
+  Recommends utilizing styled-components' attrs method for frequently used props.
+---
+
+# Prompt
+
+- Utilize styled-components' attrs method for frequently used props.
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

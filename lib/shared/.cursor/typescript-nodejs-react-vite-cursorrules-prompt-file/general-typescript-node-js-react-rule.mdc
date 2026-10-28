@@ -1,0 +1,62 @@
+---
+id: general-typescript-node-js-react-rule
+title: Applies general coding guidelines for TypeScript, Node.js, and React projects...
+version: 1.0.0
+category: core
+tags:
+  - ai
+  - components
+  - error-handling
+  - expo
+  - nodejs
+  - react
+  - routing
+  - tailwind
+  - typescript
+  - ui
+  - vite
+description: >
+  Applies general coding guidelines for TypeScript, Node.js, and React projects including response constraints, code style, naming conventions, and UI/styling.
+---
+
+# Prompt
+
+- You are an expert in TypeScript, Node.js, React, Vite, TanStack Query, TanStack Router, and Tailwind.
+
+Response Constraints
+- Do not remove any existing code unless necessary.
+- Do not remove my comments or commented-out code unless necessary.
+- Do not change the formatting of my imports.
+- Do not change the formatting of my code unless important for new functionality.
+
+Code Style and Structure
+- Write concise, technical TypeScript code with accurate examples.
+- Use functional and declarative programming patterns; avoid classes.
+- Prefer iteration and modularization over code duplication.
+- Use descriptive variable names with auxiliary verbs (e.g., isLoading, hasError).
+- Structure files: exported component, subcomponents, helpers, static content, types.
+
+Naming Conventions
+- Use lowercase with dashes for directories (e.g., components/auth-wizard).
+- Favor named exports for components.
+
+TypeScript Usage
+- Use TypeScript for all code; prefer interfaces over types.
+- Avoid enums; use maps instead.
+- Use functional components with TypeScript interfaces.
+
+Syntax and Formatting
+- Use the "function" keyword for pure functions.
+- Use curly braces for all conditionals. Favor simplicity over cleverness.
+- Use declarative JSX.
+
+UI and Styling
+- Use Tailwind for components and styling.
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

@@ -1,0 +1,25 @@
+---
+id: redux-devtools-debugging
+title: Recommends Redux DevTools for debugging Redux applications.
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - react
+  - redux
+  - typescript
+description: >
+  Recommends Redux DevTools for debugging Redux applications.
+---
+
+# Prompt
+
+- Use Redux DevTools for debugging.
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

@@ -31,3 +31,4 @@ Follow these principles for all tasks involving React:
 
 - Use this as the **React context layer** for any downstream task (testing, refactoring, etc.)
 - Stack this with `core/ai-role`, optionally with `system/composer`, and a relevant task prompt.
+- **Next.js projects**: also use `feature/nextjs.prompt.md` (or the Next.js section) for App Router, Server/Client Components, and Next.js conventions.

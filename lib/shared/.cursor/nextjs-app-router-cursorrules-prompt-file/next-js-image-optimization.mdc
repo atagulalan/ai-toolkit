@@ -1,0 +1,25 @@
+---
+id: next-js-image-optimization
+title: Promotes the optimization of images using the Next.js Image component for bet...
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - components
+  - nextjs
+  - typescript
+description: >
+  This rule promotes the optimization of images using the Next.js Image component for better performance.
+---
+
+# Prompt
+
+- Utilize Next.js Image component for optimized images
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

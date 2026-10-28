@@ -1,0 +1,27 @@
+---
+id: typescript-usage-rule
+title: Rules specific to TypeScript usage including interfaces, types, and functiona...
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - components
+  - nextjs
+  - typescript
+description: >
+  Rules specific to TypeScript usage including interfaces, types, and functional components.
+---
+
+# Prompt
+
+- Use TypeScript for all code; prefer interfaces over types.
+- Avoid enums; use maps instead.
+- Use functional components with TypeScript interfaces.
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

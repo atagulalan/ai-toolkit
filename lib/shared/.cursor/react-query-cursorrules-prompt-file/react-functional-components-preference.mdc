@@ -1,0 +1,26 @@
+---
+id: react-functional-components-preference
+title: Use of functional components with hooks in React components within the src/co...
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - components
+  - hooks
+  - react
+  - typescript
+description: >
+  This rule enforces the use of functional components with hooks in React components within the src/components directory.
+---
+
+# Prompt
+
+- Always use functional components with hooks instead of class components.
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

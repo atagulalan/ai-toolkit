@@ -1,0 +1,34 @@
+---
+id: redux-toolkit-best-practices
+title: Applies Redux Toolkit best practices for efficient Redux development.
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - components
+  - hooks
+  - react
+  - redux
+  - state-management
+  - typescript
+  - ui
+description: >
+  Applies Redux Toolkit best practices for efficient Redux development.
+---
+
+# Prompt
+
+- Use Redux Toolkit for efficient Redux development.
+- Implement slice pattern for organizing Redux code.
+- Utilize createAsyncThunk for handling async actions.
+- Use selectors for accessing state in components.
+- Use Redux hooks (useSelector, useDispatch) in components.
+- Follow Redux style guide for naming conventions
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

@@ -1,0 +1,32 @@
+---
+id: typescript-react---best-practices
+title: TypeScript React best practices related to using React.FC, hooks, interfaces,...
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - components
+  - hooks
+  - react
+  - state-management
+  - typescript
+description: >
+  Enforces TypeScript React best practices related to using React.FC, hooks, interfaces, and optimization techniques.
+---
+
+# Prompt
+
+- Use React.FC for functional components with props
+- Utilize useState and useEffect hooks for state and side effects
+- Implement proper TypeScript interfaces for props and state
+- Use React.memo for performance optimization when needed
+- Implement custom hooks for reusable logic
+- Utilize TypeScript's strict mode
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

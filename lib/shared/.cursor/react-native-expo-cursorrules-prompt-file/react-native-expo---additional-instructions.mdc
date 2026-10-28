@@ -1,0 +1,33 @@
+---
+id: react-native-expo---additional-instructions
+title: Additional instructions for React Native Expo development, such as using Type...
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - expo
+  - react
+  - react-native
+  - typescript
+  - ui
+description: >
+  Provides additional instructions for React Native Expo development, such as using TypeScript, StyleSheet for styling, and Expo's secure store for sensitive data.
+---
+
+# Prompt
+
+- Use TypeScript for type safety
+- Implement proper styling using StyleSheet
+- Utilize Expo's vector icons
+- Use Expo's secure store for sensitive data
+- Implement proper offline support
+- Follow React Native best practices for performance
+- Use Expo's OTA updates for quick deployments
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

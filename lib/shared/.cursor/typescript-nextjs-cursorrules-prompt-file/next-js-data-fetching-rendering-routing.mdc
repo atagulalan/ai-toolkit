@@ -1,0 +1,25 @@
+---
+id: next-js-data-fetching-rendering-routing
+title: Follow Next.js documentation regarding Data Fetching, Rendering and Routing w...
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - nextjs
+  - routing
+  - typescript
+description: >
+  Follow Next.js documentation regarding Data Fetching, Rendering and Routing when working in the /app directory
+---
+
+# Prompt
+
+- Follow Next.js docs for Data Fetching, Rendering, and Routing.
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

@@ -1,0 +1,29 @@
+---
+id: next-js-project-rule
+title: General rules for the entire Next.js project, covering technology stack and c...
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - components
+  - nextjs
+  - state-management
+  - typescript
+  - ui
+description: >
+  General rules for the entire Next.js project, covering technology stack and core libraries.
+---
+
+# Prompt
+
+- The project is named Astral, the Block Explorer of Autonomys network.
+- The project is built using Next.js and TypeScript.
+- The project integrates various libraries for state management, UI components, and data fetching.
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

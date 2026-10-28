@@ -1,0 +1,33 @@
+---
+id: key-conventions-rule
+title: Key Conventions for Next.js projects like usage of 'nuqs', web vitals optimiz...
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - client
+  - components
+  - nextjs
+  - server
+  - state-management
+  - typescript
+description: >
+  Key Conventions for Next.js projects like usage of 'nuqs', web vitals optimization, and limitation of client-side components.
+---
+
+# Prompt
+
+- Use 'nuqs' for URL search parameter state management.
+- Optimize Web Vitals (LCP, CLS, FID).
+- Limit 'use client':
+  - Favor server components and Next.js SSR.
+  - Use only for Web API access in small components.
+  - Avoid for data fetching or state management.
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

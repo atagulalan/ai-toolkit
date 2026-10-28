@@ -1,0 +1,24 @@
+---
+id: next-js-typescript-usage
+title: Usage of Typescript for type safety across a Next.js project.
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - nextjs
+  - typescript
+description: >
+  This rule encourages the usage of Typescript for type safety across a Next.js project.
+---
+
+# Prompt
+
+- Use TypeScript for type safety
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

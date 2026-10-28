@@ -1,0 +1,28 @@
+---
+id: styled-components---conditional-styling-css-prop
+title: Recommends using the css prop for conditional styling in Styled Components wh...
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - components
+  - css
+  - react
+  - styled-components
+  - styling
+  - typescript
+description: >
+  Recommends using the css prop for conditional styling in Styled Components when appropriate.
+---
+
+# Prompt
+
+- Use the css prop for conditional styling when appropriate.
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

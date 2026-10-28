@@ -1,0 +1,28 @@
+---
+id: styled-components---css-in-js
+title: All styling is done using CSS-in-JS with Styled Components.
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - components
+  - css
+  - react
+  - styled-components
+  - styling
+  - typescript
+description: >
+  Ensures all styling is done using CSS-in-JS with Styled Components.
+---
+
+# Prompt
+
+- Use CSS-in-JS for all styling needs.
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

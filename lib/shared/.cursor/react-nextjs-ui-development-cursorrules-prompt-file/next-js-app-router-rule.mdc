@@ -1,0 +1,27 @@
+---
+id: next-js-app-router-rule
+title: Specific rules for the Next.js App Router directory, ensuring the AI avoids t...
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - nextjs
+  - react
+  - routing
+  - typescript
+  - ui
+description: >
+  Specific rules for the Next.js App Router directory, ensuring the AI avoids the Pages Router.
+---
+
+# Prompt
+
+- This project uses Next.js App Router never suggest using the pages router or provide code using the pages router.
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

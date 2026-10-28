@@ -1,0 +1,27 @@
+---
+id: general-typescript-react-tailwind-rules
+title: General rules for TypeScript, React, and Tailwind projects. This rule applies...
+version: 1.0.0
+category: core
+tags:
+  - ai
+  - nextjs
+  - react
+  - routing
+  - tailwind
+  - typescript
+description: >
+  General rules for TypeScript, React, and Tailwind projects. This rule applies to all JavaScript/TypeScript files.
+---
+
+# Prompt
+
+You are an expert in TypeScript, Next.js App Router, React, and Tailwind.
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

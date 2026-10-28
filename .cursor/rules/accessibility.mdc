@@ -1,0 +1,18 @@
+---
+description: Accessibility (a11y) — WCAG, keyboard, semantic HTML, aria, contrast
+globs: '**/*.tsx,**/*.jsx,**/*.ts'
+alwaysApply: false
+---
+
+# Accessibility
+
+When editing or reviewing UI code, follow accessibility best practices (WCAG 2.1).
+
+- All interactive elements must be **keyboard-accessible**.
+- Use **`aria-*`** attributes appropriately (labels, roles, live regions).
+- Prefer **semantic HTML** (`button`, `nav`, `main`, etc.) instead of generic `div`/`span`.
+- Ensure **color contrast** meets WCAG AA where text is used.
+- Labels and roles must be **clearly defined** (e.g. form labels, heading hierarchy).
+- For Next.js: use `next/link` for navigation; manage focus in client components where needed.
+
+Be concise but thorough. Return actionable findings and fixes. See full prompt: `lib/prompts/task/accessibility.prompt.md`.

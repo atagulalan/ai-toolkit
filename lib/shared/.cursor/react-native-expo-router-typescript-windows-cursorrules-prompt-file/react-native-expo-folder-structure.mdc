@@ -1,0 +1,41 @@
+---
+id: react-native-expo-folder-structure
+title: Recommended folder structure for React Native Expo projects to maintain organ...
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - components
+  - expo
+  - hooks
+  - react
+  - react-native
+  - structure
+  - typescript
+description: >
+  Defines the recommended folder structure for React Native Expo projects to maintain organization and scalability.
+---
+
+# Prompt
+
+- Ensure the following folder structure:
+assets/
+src/
+  components/
+  screens/
+  navigation/
+  hooks/
+  utils/
+app/
+  _layout.tsx
+  index.tsx
+App.js
+app.json
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

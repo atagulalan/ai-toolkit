@@ -1,0 +1,34 @@
+---
+id: next-js-folder-structure
+title: Recommended folder structure for Next.js projects.
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - components
+  - nextjs
+  - structure
+  - typescript
+description: >
+  This rule defines the recommended folder structure for Next.js projects.
+---
+
+# Prompt
+
+- Adhere to the following folder structure:
+
+app/
+  layout.js
+  page.js
+  components/
+  lib/
+  styles/
+public/
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

@@ -1,0 +1,27 @@
+---
+id: directory-naming-convention
+title: Directory naming convention.
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - components
+  - nextjs
+  - nodejs
+  - structure
+  - typescript
+description: >
+  Defines the directory naming convention.
+---
+
+# Prompt
+
+- Use lowercase with dashes for directories (e.g., components/auth-wizard).
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

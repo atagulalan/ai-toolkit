@@ -4,10 +4,14 @@
   "description": "Commencis AI Toolkit",
   "author": "Commencis WEB Team",
   "license": "Apache-2.0",
+  "type": "module",
   "engines": {
     "node": ">=22.16"
   },
   "packageManager": "pnpm@10.12.3",
+  "bin": {
+    "ai-toolkit-install": "./lib/cli/index.js"
+  },
   "scripts": {
     "preinstall": "npx only-allow pnpm",
     "lint:check:js": "eslint .",
@@ -16,9 +20,17 @@
     "lint:fix:format": "prettier \"**/*.{json,md}\" --write",
     "lint": "pnpm run \"/^lint:check:.*/\"",
     "lint:fix": "pnpm run \"/^lint:fix:.*/\"",
-    "ci:review": "pnpm run lint",
+    "ci:review": "pnpm run lint && pnpm run test",
     "prepare": "husky",
-    "precommit": "lint-staged"
+    "precommit": "lint-staged",
+    "test": "node --test tests/cli.test.js tests/prompts.test.js",
+    "install-prompts": "node lib/cli/index.js"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "fs-extra": "^11.2.0",
+    "gray-matter": "^4.0.3",
+    "prompts": "^2.4.2"
   },
   "devDependencies": {
     "@commencis/commitlint-config": "1.1.4",

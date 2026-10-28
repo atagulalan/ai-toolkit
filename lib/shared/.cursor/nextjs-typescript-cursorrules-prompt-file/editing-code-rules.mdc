@@ -1,0 +1,24 @@
+---
+id: editing-code-rules
+title: Prioritizes returning completely edited files and defines verbosity levels fo...
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - nextjs
+  - typescript
+description: >
+  Prioritizes returning completely edited files and defines verbosity levels for code detail, applying to all files.
+---
+
+# Prompt
+
+- Return completely edited file
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.

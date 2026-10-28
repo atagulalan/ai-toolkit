@@ -1,0 +1,26 @@
+---
+id: vercel-ai-sdk-rules
+title: Rules for using the Vercel AI SDK in the project. This rule applies to all Ja...
+version: 1.0.0
+category: system
+tags:
+  - ai
+  - nextjs
+  - react
+  - typescript
+  - vercel
+description: >
+  Rules for using the Vercel AI SDK in the project. This rule applies to all JavaScript/TypeScript files.
+---
+
+# Prompt
+
+Use Vercel AI SDK for handling AI interactions and streaming responses.
+
+---
+
+# Usage Notes
+
+- Replace placeholders such as `{{variable}}` with actual values.
+- Designed for use with ChatGPT, Cursor, Gemini, or any LLM that accepts prompt input.
+- Best used by copying into your AI tool of choice.
